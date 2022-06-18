@@ -4,8 +4,8 @@
 // Zifabotz
 
 let fs = require('fs')
-global.owner = ['089518030035', '089518030035','089518030035', '089518030035', '089518030035'] // Letakan nomor kamu disini
-global.own = ['089518030035']
+global.owner = ['081230786140','081230786140','081230786140','081230786140','081230786140'] // Letakan nomor kamu disini
+global.own = ['081230786140']
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -43,7 +43,7 @@ global.APIKeys = { // APIKey nya disini
 
 // Sticker WM
 global.packname = '*Created By*'
-global.author = '©*𝙰𝚛𝚎𝚡𝚊𝚗𝚜 ×፝֟͜×*'
+global.author = '©* 𝙼𝚘𝚞𝚣𝚊𝚛𝚎𝚕𝚕𝚊×፝֟͜×*'
 
 global.wait = '▰▰▰▰▱▱▱▱▱▱ ʟᴏᴀᴅɪɴɢ...'
 global.eror = '「❗」Server LAGI ERROR COK!'
